@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Elementos de la UI</string>
+    <string name="textview">TextView</string>
+    <string name="button">Button</string>
+    <string name="name">Name</string>
+    <string name="switch2">Switch</string>
+    <string name="checkbox">CheckBox</string>
+
+</resources>
